@@ -1,0 +1,7 @@
+{
+    "url": "https://api.dnsimple.com",
+    "token": "trallalal",
+    "zone": "example.com",
+    "record_name": "tbu",
+    "domain": "tbu.example.com"
+}
